@@ -1,0 +1,7 @@
+new_dict = dict(dave='001',ava='112')
+print(new_dict)
+type(new_dict)
+print(new_dict['dave'])
+new_dict2= dict(o001='date',w0012='cal')
+print(new_dict2)
+print(new_dict2['w0012'])
